@@ -9,10 +9,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [node](https://www.npmjs.com/get-npm)
 
 **Clone this repositiory**
-`git clone [key]`
+```
+git clone [key]
+```
 
 **Move into directory and run programme**
-`npm start`
+```
+npm start
+```
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser (if it doesn't run automatically).
+Open
+[http://localhost:3000](http://localhost:3000) to view it in the browser (if it doesn't run automatically).
